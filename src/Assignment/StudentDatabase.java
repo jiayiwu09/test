@@ -28,10 +28,7 @@ public class StudentDatabase implements ContactInfo{
 	public void pay() {
 		
 	}
-	
-	public void checkBalace() {
-		
-	}
+
 	@Override
 	public String toString() {
 		return "Name :" + name +"SSN :" + SSN +"emailId :" + emailId + "UserID" + userId;
