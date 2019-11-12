@@ -7,7 +7,7 @@ public class PaymentsApp {
 
         double payment = 0;
         boolean positivepymt = true;
-
+        //Test
         do {
             // 1.ask the user for input
             System.out.println("Enter the payment amount: ");
